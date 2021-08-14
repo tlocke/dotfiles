@@ -1,0 +1,5 @@
+[user]
+	email = tlocke@tlocke.org.uk
+	name = Tony Locke
+[credential]
+	helper = cache
